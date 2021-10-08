@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HovhaHugo
+- 👋 Hi, I’m Hugo Hovhannessian, 20 years ol and I live in France
 - 👀 I’m interested in coding with a lot of people
 - 🌱 I’m currently learning Java, C, C++
 - 💞️ I’m looking to collaborate on .. well i don't know right now so, i will upadte this later 
