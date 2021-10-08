@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @HovhaHugo
+- 👀 I’m interested in coding with a lot of people
+- 🌱 I’m currently learning Java, C, C++
+- 💞️ I’m looking to collaborate on .. well i don't know right now so, i will upadte this later 
+- 📫 How to reach me : By mail at hugo.hovhannessian@gmail.com and maybe later with some other social network
+
+<!---
+HovhaHugo/HovhaHugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
