@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hugo Hovhannessian, 22 years old and I live in France
+- 👋 Hi, I’m Hugo Hovhannessian, 23 years old and I live in France
 - 👀 I’m interested in coding with a lot of people
 - 🌱 I’m currently learning Java, C, C++, C#, Javascript, HTML, Cuda
 - 💞️ I’m looking to collaborate on .. well i don't know right now so, i will upadte this later 
